@@ -9,7 +9,7 @@ Make sure macchanger package is installed in you system
    linux@noobgajen$    sudo apt-get install macchanger -y
   
     To install mac changer package in Arch based linux
-   linux@noobgajen$   sudo pacman --noconfirm -S macchanger
+   linux@noobgajen$   ```sudo pacman --noconfirm -S macchanger```
    
    
   Script privilage
