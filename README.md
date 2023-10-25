@@ -1,4 +1,3 @@
-```markdown
 # Mac Address Changer Script
 
 This script allows you to change your MAC address to a valid one. It can be useful for enhancing privacy and security on your network.
@@ -28,4 +27,3 @@ sudo ./Mac_Changer.sh
 ```
 
 Please note that changing your MAC address might impact your network connectivity, so use this script responsibly and ensure you have the necessary permissions to modify your MAC address.
-```
