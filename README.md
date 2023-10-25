@@ -7,11 +7,11 @@ Make sure macchanger package is installed in you system
 
    To install mac changer package in debian based linux
     
-    linux@noobgajen$    sudo apt-get install macchanger -y
+    sudo apt-get install macchanger -y
   
    To install mac changer package in Arch based linux
     
-    linux@noobgajen$   sudo pacman --noconfirm -S macchanger
+    sudo pacman --noconfirm -S macchanger
    
    
   Script privilage
@@ -20,6 +20,6 @@ Make sure macchanger package is installed in you system
   
 eg,   
      
-    linux@noobgajen$  sudo ./ Mac_Changer.sh
+    sudo ./ Mac_Changer.sh
    
    
